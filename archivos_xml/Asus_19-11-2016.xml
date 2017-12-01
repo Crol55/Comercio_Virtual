@@ -1,0 +1,25 @@
+<PRODUCTOS>
+<PRODUCTO>
+<id_producto>40</id_producto>
+<nombre_producto>Computadora Dell</nombre_producto>
+<tipo_producto>COMUN</tipo_producto>
+<descripcion>computadora i3</descripcion>
+<ofertado>NO-OFERTADO</ofertado>
+<multimedia>compu.png</multimedia>
+<precio>20.00</precio>
+<existencia>15</existencia>
+<CATEGORIA_PRODUCTO_no_categoria>7</CATEGORIA_PRODUCTO_no_categoria>
+</PRODUCTO>
+  <PRODUCTO>
+<id_producto>41</id_producto>
+<nombre_producto>cuaderno</nombre_producto>
+<tipo_producto>COMUN</tipo_producto>
+<descripcion>cuaderno cuadricula</descripcion>
+<ofertado>NO-OFERTADO</ofertado>
+<multimedia>cuaderno.png</multimedia>
+<precio>15.00</precio>
+<existencia>13</existencia>
+<CATEGORIA_PRODUCTO_no_categoria>7</CATEGORIA_PRODUCTO_no_categoria>
+</PRODUCTO>
+
+</PRODUCTOS>

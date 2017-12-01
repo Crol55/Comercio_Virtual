@@ -1,0 +1,4 @@
+Faltante:
+los admins cargaran las zonas por xml
+
+admin y gerente, puede consultar y modificar zonas

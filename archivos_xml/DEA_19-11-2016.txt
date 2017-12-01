@@ -1,0 +1,135 @@
+<CATEGORIAS_PRODUCTO>
+<CATEGORIA>
+<no_categoria>1</no_categoria>
+<nombre_categoria>Escolar</nombre_categoria>
+</CATEGORIA>
+<CATEGORIA>
+<no_categoria>2</no_categoria>
+<nombre_categoria>Comestibles</nombre_categoria>
+</CATEGORIA>
+<CATEGORIA>
+<no_categoria>3</no_categoria>
+<nombre_categoria>Limpieza</nombre_categoria>
+</CATEGORIA>
+</CATEGORIAS_PRODUCTO>
+<PRODUCTOS>
+<PRODUCTO>
+<id_producto>2</id_producto>
+<nombre_producto>lapicero BIC</nombre_producto>
+<tipo_producto>COMUN</tipo_producto>
+<descripcion>lapicero de punta fina</descripcion>
+<ofertado>NO-OFERTADO</ofertado>
+<multimedia>lapicero.png</multimedia>
+<precio>0.25</precio>
+<existencia>5000</existencia>
+<CATEGORIA_PRODUCTO_no_categoria>1</CATEGORIA_PRODUCTO_no_categoria>
+</PRODUCTO>
+<PRODUCTO>
+<id_producto>3</id_producto>
+<nombre_producto>arroz GALLO DORADO</nombre_producto>
+<tipo_producto>COMUN</tipo_producto>
+<descripcion>libra de arroz precocido en bolsa</descripcion>
+<ofertado>NO-OFERTADO</ofertado>
+<multimedia>arroz.png</multimedia>
+<precio>0.80</precio>
+<existencia>1000</existencia>
+<CATEGORIA_PRODUCTO_no_categoria>2</CATEGORIA_PRODUCTO_no_categoria>
+</PRODUCTO>
+<PRODUCTO>
+<id_producto>4</id_producto>
+<nombre_producto>jabon liquido SUAVE </nombre_producto>
+<tipo_producto>COMUN</tipo_producto>
+<descripcion>jabon liquido para manos</descripcion>
+<ofertado>NO-OFERTADO</ofertado>
+<multimedia>jabonliquido.png</multimedia>
+<precio>2.50</precio>
+<existencia>500</existencia>
+<CATEGORIA_PRODUCTO_no_categoria>3</CATEGORIA_PRODUCTO_no_categoria>
+</PRODUCTO>
+<PRODUCTO>
+<id_producto>5</id_producto>
+<nombre_producto>dulce de leche LA VAQUITA</nombre_producto>
+<tipo_producto>PROPIO</tipo_producto>
+<descripcion>dulce de leche</descripcion>
+<ofertado>OFERTADO</ofertado>
+<multimedia>dulceleche.png</multimedia>
+<precio>2.50</precio>
+<existencia>100</existencia>
+<CATEGORIA_PRODUCTO_no_categoria>2</CATEGORIA_PRODUCTO_no_categoria>
+</PRODUCTO>
+</PRODUCTOS>
+<ZONAS>
+<ZONA>
+<no_zona>1</no_zona>
+<nombre_zona>Región Centroamericana</nombre_zona>
+</ZONA>
+<ZONA>
+<no_zona>2</no_zona>
+<nombre_zona>GUATEMALA</nombre_zona>
+<ZONA_no_zona_superior>1</ ZONA_no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>3</no_zona>
+<nombre_zona>HONDURAS</nombre_zona>
+<ZONA_no_zona_superior >1</ ZONA_no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>4</no_zona>
+<nombre_zona>CENTRO GUA</nombre_zona>
+< ZONA_no_zona_superior >2</ ZONA_ no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>5</no_zona>
+<nombre_zona>ORIENTE GUA</nombre_zona>
+< ZONA_no_zona_superior >2</ ZONA_no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>6</no_zona>
+<nombre_zona>OCCIDENTE GUA</nombre_zona>
+< ZONA_no_zona_superior >2</ ZONA_no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>7</no_zona>
+<nombre_zona>Zona 7</nombre_zona>
+< ZONA_no_zona_superior >4</ ZONA_ no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>8</no_zona>
+<nombre_zona>MIXCO</nombre_zona>
+< ZONA_no_zona_superior >4</ ZONA_ no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>9</no_zona>
+<nombre_zona>ZACAPA</nombre_zona>
+< ZONA_no_zona_superior >5</ ZONA_no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>10</no_zona>
+<nombre_zona>QUETZALTENANGO</nombre_zona>
+< ZONA_no_zona_superior >6</ ZONA_no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>11</no_zona>
+<nombre_zona>Centro Zona 5</nombre_zona>
+< ZONA_no_zona_superior >4</ ZONA_no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>12</no_zona>
+<nombre_zona>Centro Zona 4</nombre_zona>
+< ZONA_no_zona_superior >4</ ZONA_no_zona_superior >
+</ZONA>
+<ZONA>
+<no_zona>13</no_zona>
+< ZONA_nombre_zona>Centro Zona 1</ ZONA_nombre_zona>
+< ZONA_ no_zona_superior >4</ ZONA_no_zona_superior >
+</ZONA>
+<ZONAS_VECINAS>
+<ZONA_VECINA>
+<ZONA_no_zona>11</ZONA_no_zona>
+<ZONA_zona vecina> 12</ZONA_zona vecina>
+</ZONA_VECINA>
+<ZONA_VECINA>
+< ZONA_no_zona>11</ ZONA_no_zona>
+< ZONA_zona vecina> 13</ ZONA_zona vecina>
+</ZONA_VECINA>
+</ZONAS_VECINAS>
